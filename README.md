@@ -1,1 +1,1 @@
-This repo shows the code I used for the Mediumn Article.
+This repo shows the code I used for the Medium Article.
