@@ -25,5 +25,7 @@ I discover that heart disease is much more likely to develop in one's late forti
 - whether one has exercise induced angina
 - results of an ECG scan
 
-### File in the Repo
+### Files in the Repo
+**heart_failure_clinical_records_dataset.csv**: the raw data in a csv file.<br />
+**
 
