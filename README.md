@@ -9,7 +9,7 @@ As a man in his mid-thirties, I was motivated to discover the degree to which ag
 
 ### Libraries used
 
-pandas //
-matplotlib//
-seaborne//
-sklearn//
+pandas /
+matplotlib/
+seaborne/
+sklearn/
