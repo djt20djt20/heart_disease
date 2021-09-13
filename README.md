@@ -1,4 +1,4 @@
-## Heart Disease Predcition
+## Heart Disease Prediction
 
 This repo shows the code I used for the Medium Article entitled <a href='https://medium.com/@djt20djt20/how-to-predict-heart-disease-using-data-science-78df177e816b'> How to predict heart disease (using machine learning) </a ><br />
 
